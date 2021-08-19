@@ -1,5 +1,21 @@
-## Galeria App de la ciudad de Ushuaia
+# Galeria
 
-Aplicacion que muestra algunas imagenes de mi ciudad.
+_Proyecto practica de HTML CSS JS_
 
-Skills: HTML - CSS - JAVASCRIPT
+**Galeria Ushuaia** es una pagina que muestra imagenes de mi ciudad y su ubicacion.
+
+### Integrantes
+
+- [Jonatan Claros](https://github.com/jonatan-c)
+
+### Tecnologías que se utilizaron :
+
+- HTML
+- CSS
+- Javascript
+
+#### Futuras mejoras e implementaciones:
+
+- Hacerlo mobile responsive
+- Agregar tema dia/noche
+- Agregar filtro por tipo: Montaña,Fauna,Flora.
